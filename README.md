@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"><img src="https://render.bitstrips.com/v2/cpanel/9e8f7839-cd6d-4222-82fe-4a31d013e2b1-56f796ea-082a-4ec4-8e56-447e791cb8a2-v1.png?transparent=1&palette=1&width=246" alt="ayyy"></p>
 
 <!--
 **ro6ley/ro6ley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
