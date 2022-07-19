@@ -22,13 +22,11 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Python and Rust projects**
 
-- 👨‍💻 All of my projects are available at [robley.xyz](robley.xyz)
+- 📝 I write articles on [https://robley.xyz/blog/](https://robley.xyz/blog/)
 
-- 📝 I regularly write articles on [https://robley.xyz/blog/](https://robley.xyz/blog/)
+- 📫 Reach me via **robleygori@live.com**
 
-- 📫 How to reach me **robleygori@live.com**
-
-- 📄 Know about my experiences [https://robley.xyz](https://robley.xyz)
+- 📄 Find out more about me [https://robley.xyz](https://robley.xyz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
