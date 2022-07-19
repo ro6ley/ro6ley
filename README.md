@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Robley Gori</h1>
-<h3 align="center">A passionate backend developer from Nairobi...</h3>
+<h3 align="center">A passionate software craftsman based in Nairobi...</h3>
 
 <b>tl;dr</b>
 - 🔭 I’m currently working on **on digitising legislation with [Laws.Africa](https://github.com/laws-africa/)**
