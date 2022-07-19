@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate software craftsman based in Nairobi...</h3>
 
 <b>tl;dr</b>
-- 🔭 I’m currently working on **on digitising legislation with [Laws.Africa](https://github.com/laws-africa/)**
+- 🔭 I’m currently working on **digitising legislation with [Laws.Africa](https://github.com/laws-africa/)**
 
 - 🌱 I’m currently learning **Rust**
 
