@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on **Python and Rust projects**
+- 👯 I’m looking to collaborate on **Python** and **Rust** projects
 
 - 📝 I write articles on [https://robley.xyz/blog/](https://robley.xyz/blog/)
 
