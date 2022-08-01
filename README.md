@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3>tl;dr</h3>
+
 - 🔭 I’m currently working on **digitising legislation with [Laws.Africa](https://github.com/laws-africa/)**
 
 - 🌱 I’m currently learning **Rust**
