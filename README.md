@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 
 <h2> Hi 👋, I'm Robley Gori </h2>
 
-<p align="left"><a href="https://linkedin.com/in/robleygori" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robleygori" height="30" width="40" /></a><a href="https://instagram.com/ro6ley" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ro6ley" height="30" width="40" /></a></p>
-
-</br>
-
 <h3>tl;dr</h3>
 
 - 🔭 I’m currently working on **digitising legislation with [Laws.Africa](https://github.com/laws-africa/)**
@@ -32,6 +28,9 @@ Here are some ideas to get you started:
 - 📫 Reach me via **robleygori@live.com**
 
 - 📄 Find out more about me [https://robley.xyz](https://robley.xyz)
+
+<hr>
+<p align="left"><a href="https://linkedin.com/in/robleygori" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robleygori" height="30" width="40" /></a><a href="https://instagram.com/ro6ley" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ro6ley" height="30" width="40" /></a></p>
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
