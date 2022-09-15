@@ -12,12 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Robley Gori</h1>
-<h3 align="center">A software craftsman based in Nairobi...</h3>
-<p align="center">
-<a href="https://linkedin.com/in/robleygori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robleygori" height="30" width="40" /></a>
-<a href="https://instagram.com/ro6ley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ro6ley" height="30" width="40" /></a>
-</p>
+
+<h2> Hi 👋, I'm Robley Gori <a href="https://instagram.com/ro6ley" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ro6ley" height="30" width="40" /></a> <a href="https://linkedin.com/in/robleygori" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robleygori" height="30" width="40" /></a> </h2>
 
 <h3>tl;dr</h3>
 
