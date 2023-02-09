@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Python** and **Rust** projects
 
-- 📝 I write articles on [https://robley.xyz/blog/](https://robley.xyz/blog/)
+<!-- - 📝 I write articles on [https://robley.xyz/blog/](https://robley.xyz/blog/) -->
 
 - 📫 Reach me via **robleygori@live.com**
 
