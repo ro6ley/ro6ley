@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **life-changing products at [Angaza](https://github.com/angaza/).**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust 🦀**
 
 - 👯 I’m looking to collaborate on **Python** and **Rust** projects
 
