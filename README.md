@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3>tl;dr</h3>
 
-<!-- - 🔭 I’m currently working on **digitising legislation with [Laws.Africa](https://github.com/laws-africa/)** -->
+- 🔭 I’m currently working on **life-changing products at [Angaza](https://github.com/angaza/).**
 
 - 🌱 I’m currently learning **Rust**
 
