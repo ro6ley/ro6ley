@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Python** and **Rust** projects
 
-<!-- - 📝 I write articles on [https://robley.xyz/blog/](https://robley.xyz/blog/) -->
+<!-- - 📝 I write articles on [https://robley.xyz/blog/](https://robley.dev/blog/) -->
 
 - 📫 Reach me via **robleygori@live.com**
 
-- 📄 Find out more about me [https://robley.xyz](https://robley.xyz)
+- 📄 Find out more about me [https://robley.dev](https://robley.dev)
 
 <hr>
 <p align="left"><a href="https://linkedin.com/in/robleygori" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robleygori" height="30" width="40" /></a><a href="https://instagram.com/ro6ley" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ro6ley" height="30" width="40" /></a></p>
